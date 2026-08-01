@@ -95,7 +95,7 @@ elif st.session_state.choice == "yes":
         st.write("Look at you! Just perfection. ✨")
         
         # Paste your uploaded image URL inside the quotes below!
-        st.image("https://i.postimg.cc/J4QxDxXY/IMG-20260728-194252-545.jpg", caption="My favorite view ❤️", use_container_width=True)
+        st.image("https://i.postimg.cc/j5dch7r1/IMG-20260728-194252-545.jpg", caption="My favorite view ❤️", use_container_width=True)
 
     # TAB 2: ENGLISH TRANSLATED LETTER
     with tab2:
@@ -119,5 +119,5 @@ elif st.session_state.choice == "yes":
         st.subheader("Baihja Mera Kol Tenu Takda Raha 🎧")
         st.write("Press play below 👇")
         # Direct video link for "Baihja Mera Kol"
-        st.video("https://www.youtube.com/watch?v=A8f9u8p9gI4")
+        st.video("https://www.youtube.com/watch?v=MdM_To1PCDs&list=RDMdM_To1PCDs&start_radio=1")
         st.success("You can count on me, today and always! ✨")
