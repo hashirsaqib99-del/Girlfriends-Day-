@@ -95,7 +95,7 @@ elif st.session_state.choice == "yes":
         st.write("Look at you! Just perfection. ✨")
         
         # Paste your uploaded image URL inside the quotes below!
-        st.image("YOUR_IMAGE_LINK_HERE", caption="My favorite view ❤️", use_container_width=True)
+        st.image("https://i.postimg.cc/J4QxDxXY/IMG-20260728-194252-545.jpg", caption="My favorite view ❤️", use_container_width=True)
 
     # TAB 2: ENGLISH TRANSLATED LETTER
     with tab2:
